@@ -80,5 +80,4 @@ def permutations2(nums):
         nums.insert(i, n)
 
     return result
-
     
